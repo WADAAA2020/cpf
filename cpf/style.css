@@ -1,0 +1,17 @@
+.cpf-container{ 
+    border: 2px solid rgb(116, 151, 207);
+    border-radius: 20px;
+    width: 400px;
+    padding: 20px;
+}
+
+.btn btn-warning{
+    display: flex;
+}
+
+body{
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
